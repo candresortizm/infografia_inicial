@@ -1,3 +1,24 @@
+h1{
+  font: bold 70px arial, sans-serif;
+  text-align: center;
+  color: white;
+}
+h2{
+  font: 15px times, sans-serif;
+  text-align: center;
+}
 body{
-  background: blue;
+  margin: 0cm 10cm 0cm 10cm;
+}
+.pantalla{
+  background: #1E90FF;
+  border: solid 25px;
+  border-radius: 10%;
+  border-color: 	#DCDCDC;
+}
+.cinta-roja{
+  border-left: 50px;
+  background-color: red;
+  width: 100px;
+  height: 40px;
 }
